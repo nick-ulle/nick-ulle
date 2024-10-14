@@ -1,7 +1,14 @@
-Data science tinkerer and teacher. Easily tricked into teaching you R. Offline,
-an avid board gamer, hiker, and baker.
+Hey there! I'm a statistician :bar_chart: and computer scientist :computer:.
+I'm interested in programming languages (especially type systems), computer
+vision, and data science pedagogy.
 
-A few workshops I've authored and instructed in past 5 years:
+I work at the [UC Davis DataLab][ucd-datalab], where I carry out collaborative
+research, develop and teach workshops, and organize community groups.
+
+[ucd-datalab]:https://datalab.ucdavis.edu/ 
+
+<details>
+<summary>Recent Workshops</summary>
 
 Title                                           | Year | Term  
 ----------------------------------------------- | ---- | ----
@@ -17,6 +24,7 @@ Title                                           | Year | Term
 
 See [my teaching notes repo][teaching-notes] for a complete list and more
 details.
+</details>
 
 [teaching-notes]: https://github.com/nick-ulle/teaching-notes
 
