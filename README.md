@@ -7,6 +7,9 @@ research, develop and teach workshops, and organize community groups.
 
 [ucd-datalab]:https://datalab.ucdavis.edu/ 
 
+In my spare time, I do a lot of time playing board games :mahjong:, baking
+:cake:, road cycling :bicyclist:, and hiking :boot:🪿.
+
 <details>
 <summary>Recent Workshops</summary>
 
