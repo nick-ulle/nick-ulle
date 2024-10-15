@@ -11,7 +11,7 @@ In my spare time, I play board games :mahjong:, bake :cake:, cycle :bicyclist:,
 and hike :mount_fuji:.
 
 <details>
-<summary>Click Here for My Recent Workshops</summary>
+<summary>Recent Workshops:</summary>
 
 Title                                           | Year | Term  
 ----------------------------------------------- | ---- | ----
