@@ -22,11 +22,11 @@ Title                                                         | Year | Term
 [Git for Teams][git-for-teams] :sparkles:Updated!             | 2025 | :blossom: Spring
 [Installing Software with Pixi][pixi] :sparkles:New!          | 2025 | :snowflake: Winter
 [Intermediate Python][intermediate-python] :sparkles:Updated! | 2025 | :snowflake: Winter
+[R Basics][r-basics] :sparkles:Updated!                       | 2024 | :fallen_leaf: Fall
 [Machine Learning in R][ml-in-r]                              | 2024 | :blossom: Spring
 [Overview of Machine Learning][ml-in-r]                       | 2024 | :blossom: Spring
 [Julia Basics][julia-basics]                                  | 2024 | :snowflake: Winter
 [Intermediate R][intermediate-r]                              | 2024 | :snowflake: Winter
-[R Basics][r-basics]                                          | 2022 | :sunny: Summer
 
 See [my teaching notes repo][teaching-notes] for a complete list and more
 details.
