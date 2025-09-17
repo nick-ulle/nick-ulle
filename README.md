@@ -13,23 +13,30 @@ and hike :mount_fuji:.
 <details>
 <summary>Recent Workshops:</summary>
 
-Title                                           | Year | Term  
------------------------------------------------ | ---- | ----
-[Machine Learning in R][ml-in-r]                | 2024 | :blossom: Spring
-[Overview of Machine Learning][ml-in-r]         | 2024 | :blossom: Spring
-[Intro to Remote Computing][intro-remote]       | 2024 | :snowflake: Winter
-[Julia Basics][julia-basics]                    | 2024 | :snowflake: Winter
-[Intermediate R][intermediate-r]                | 2024 | :snowflake: Winter
-[Reproducibility Principles & Practices][repro] | 2023 | :fallen_leaf: Fall
-[Intermediate Python][intermediate-python]      | 2023 | :blossom: Spring
-[R Basics][r-basics]                            | 2022 | :sunny: Summer
-[Python Basics][python-basics]                  | 2021 | :fallen_leaf: Fall
+Title                                                            | Year | Term  
+---------------------------------------------------------------- | ---- | ----
+[Comfy Command Line][comfy-cli]                                  | 2025 | :sunny: Summer
+[Intro to Remote Computing][intro-remote]                        | 2025 | :blossom: Spring
+[Python Basics][python-basics] (:sparkles: updated!)             | 2025 | :blossom: Spring
+[Intro to Version Control][intro-vcs] (:sparkles: updated!)      | 2025 | :blossom: Spring
+[Git for Teams][git-for-teams] (:sparkles: updated!)             | 2025 | :blossom: Spring
+[Installing Software with Pixi][pixi] (:sparkles: new!)          | 2025 | :snowflake: Winter
+[Intermediate Python][intermediate-python] (:sparkles: updated!) | 2025 | :snowflake: Winter
+[Machine Learning in R][ml-in-r]                                 | 2024 | :blossom: Spring
+[Overview of Machine Learning][ml-in-r]                          | 2024 | :blossom: Spring
+[Julia Basics][julia-basics]                                     | 2024 | :snowflake: Winter
+[Intermediate R][intermediate-r]                                 | 2024 | :snowflake: Winter
+[R Basics][r-basics]                                             | 2022 | :sunny: Summer
 
 See [my teaching notes repo][teaching-notes] for a complete list and more
 details.
 </details>
 
 [teaching-notes]: https://github.com/nick-ulle/teaching-notes
+
+[pixi]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/installing-software/01_environment-managers.html
+[intro-vcs]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/version-control/01_version-control-systems.html
+[git-for-teams]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/git-for-teams/01_branches-merges.html
 
 [repro]: https://ucdavisdatalab.github.io/workshop_reproducible_research/
 [intro-remote]: https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/
@@ -42,3 +49,5 @@ details.
 [intermediate-python]: https://ucdavisdatalab.github.io/workshop_intermediate_python/
 
 [julia-basics]: https://ucjug.github.io/workshop_julia_basics/
+
+[comfy-cli]: https://github.com/d-pug/2025_command_line
