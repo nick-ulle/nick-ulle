@@ -13,20 +13,20 @@ and hike :mount_fuji:.
 <details>
 <summary>Recent Workshops:</summary>
 
-Title                                                            | Year | Term  
----------------------------------------------------------------- | ---- | ----
-[Comfy Command Line][comfy-cli]                                  | 2025 | :sunny: Summer
-[Intro to Remote Computing][intro-remote]                        | 2025 | :blossom: Spring
-[Python Basics][python-basics] (:sparkles: updated!)             | 2025 | :blossom: Spring
-[Intro to Version Control][intro-vcs] (:sparkles: updated!)      | 2025 | :blossom: Spring
-[Git for Teams][git-for-teams] (:sparkles: updated!)             | 2025 | :blossom: Spring
-[Installing Software with Pixi][pixi] (:sparkles: new!)          | 2025 | :snowflake: Winter
-[Intermediate Python][intermediate-python] (:sparkles: updated!) | 2025 | :snowflake: Winter
-[Machine Learning in R][ml-in-r]                                 | 2024 | :blossom: Spring
-[Overview of Machine Learning][ml-in-r]                          | 2024 | :blossom: Spring
-[Julia Basics][julia-basics]                                     | 2024 | :snowflake: Winter
-[Intermediate R][intermediate-r]                                 | 2024 | :snowflake: Winter
-[R Basics][r-basics]                                             | 2022 | :sunny: Summer
+Title                                                         | Year | Term  
+--------------------------------------------------------------| ---- | ----
+[Comfy Command Line][comfy-cli]                               | 2025 | :sunny: Summer
+[Intro to Remote Computing][intro-remote]                     | 2025 | :blossom: Spring
+[Python Basics][python-basics] :sparkles:Updated!             | 2025 | :blossom: Spring
+[Intro to Version Control][intro-vcs] :sparkles:Updated!      | 2025 | :blossom: Spring
+[Git for Teams][git-for-teams] :sparkles:Updated!             | 2025 | :blossom: Spring
+[Installing Software with Pixi][pixi] :sparkles:New!          | 2025 | :snowflake: Winter
+[Intermediate Python][intermediate-python] :sparkles:Updated! | 2025 | :snowflake: Winter
+[Machine Learning in R][ml-in-r]                              | 2024 | :blossom: Spring
+[Overview of Machine Learning][ml-in-r]                       | 2024 | :blossom: Spring
+[Julia Basics][julia-basics]                                  | 2024 | :snowflake: Winter
+[Intermediate R][intermediate-r]                              | 2024 | :snowflake: Winter
+[R Basics][r-basics]                                          | 2022 | :sunny: Summer
 
 See [my teaching notes repo][teaching-notes] for a complete list and more
 details.
