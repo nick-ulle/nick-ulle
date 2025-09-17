@@ -15,9 +15,10 @@ and hike :mount_fuji:.
 
 Title                                                         | Year | Term  
 --------------------------------------------------------------| ---- | ----
-[Comfy Command Line][comfy-cli]                               | 2025 | :sunny: Summer
+[Comfy Command Line][comfy-cli] :sparkles:New!                | 2025 | :sunny: Summer
 [Intro to Remote Computing][intro-remote]                     | 2025 | :blossom: Spring
 [Python Basics][python-basics] :sparkles:Updated!             | 2025 | :blossom: Spring
+[Intro to Computer Vision][intro-cv] :sparkles:New!           | 2025 | :blossom: Spring
 [Intro to Version Control][intro-vcs] :sparkles:Updated!      | 2025 | :blossom: Spring
 [Git for Teams][git-for-teams] :sparkles:Updated!             | 2025 | :blossom: Spring
 [Installing Software with Pixi][pixi] :sparkles:New!          | 2025 | :snowflake: Winter
@@ -51,4 +52,5 @@ details.
 
 [julia-basics]: https://ucjug.github.io/workshop_julia_basics/
 
+[intro-cv]: https://d-pug.github.io/2025_computer_vision/
 [comfy-cli]: https://github.com/d-pug/2025_command_line
