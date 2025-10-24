@@ -15,6 +15,7 @@ and hike :mount_fuji:.
 
 Title                                                         | Year | Term  
 --------------------------------------------------------------| ---- | ----
+[Getting Started with DuckDB][duckdb] :sparkles:New!          | 2025 | :fallen_leaf: Fall
 [Comfy Command Line][comfy-cli] :sparkles:New!                | 2025 | :sunny: Summer
 [Intro to Remote Computing][intro-remote]                     | 2025 | :blossom: Spring
 [Python Basics][python-basics] :sparkles:Updated!             | 2025 | :blossom: Spring
@@ -36,11 +37,11 @@ details.
 
 [teaching-notes]: https://github.com/nick-ulle/teaching-notes
 
-[pixi]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/installing-software/01_environment-managers.html
-[intro-vcs]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/version-control/01_version-control-systems.html
-[git-for-teams]: https://ucdavisdatalab.github.io/workshop_reproducible_research/chapters/git-for-teams/01_branches-merges.html
+[pixi]: https://ucdavisdatalab.github.io/workshop_research_computing/chapters/installing-software/
+[intro-vcs]: https://ucdavisdatalab.github.io/workshop_research_computing/chapters/version-control/
+[git-for-teams]: https://ucdavisdatalab.github.io/workshop_research_computing/chapters/git-for-teams/
 
-[repro]: https://ucdavisdatalab.github.io/workshop_reproducible_research/
+[repro]: https://ucdavisdatalab.github.io/workshop_research_computing/chapters/reproducibility/
 [intro-remote]: https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/
 
 [r-basics]: https://ucdavisdatalab.github.io/workshop_r_basics/
@@ -54,3 +55,4 @@ details.
 
 [intro-cv]: https://d-pug.github.io/2025_computer_vision/
 [comfy-cli]: https://github.com/d-pug/2025_command_line
+[duckdb]: https://github.com/d-pug/2025_duckdb
